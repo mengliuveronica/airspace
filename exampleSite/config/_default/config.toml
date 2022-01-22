@@ -1,5 +1,5 @@
 baseURL = "https://demo.gethugothemes.com/airspace/"
-disableLanguages = ["it", "de", "fr"]
+disableLanguages = ["It", "De", "Fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 hasCJKLanguage = false
