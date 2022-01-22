@@ -70,14 +70,6 @@ sections:
 - type: document
   path: exampleSite/config/_default/menus.en.toml
   label: Menu (en)
-- type: document
-  path: exampleSite/config/_default/languages.toml
-  label: Languages
-- type: directory
-  path: exampleSite/i18n
-  label: i18n Translations
-  create: all
-  match: "**/*"
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
